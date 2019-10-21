@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 27 16:26:39 CST 2019
+http\://192.168.1.15\:8081/repository/maven-public/.error=
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1558945599777
+http\://192.168.1.15\:8081/repository/maven-public/.lastUpdated=1558945599246
